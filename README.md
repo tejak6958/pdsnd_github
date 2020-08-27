@@ -1,14 +1,19 @@
-<h2 Date created h2>
+Date created 
+ 
 Include the date you created this project and README file.
 
-<h2 Project Title h2>
+Project Title 
+ 
 Replace the Project Title
 
-<h2 Description h2>
+Description 
+
 Describe what your project is about and what it does
 
-<h2 Files used h2>
+Files used 
+ 
 Include the files used
 
-<h2 Credits h2>
+Credits 
+ 
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
